@@ -54,7 +54,7 @@ if (isset($_POST['login'])) {
 			<form method="post">
 				<input type="text" name="username" placeholder="username or email" required><br><br>
 				<input type="password" name="password" placeholder="password" required><br><br>
-				<input type="submit" name="login"><br>
+				<input type="submit" name="login" value="Login"><br>
 				<?php
 					if (isset($msg)) {
 						echo "<h3 style='color:red;font-size:20;'>" . $msg . "</h3>";
