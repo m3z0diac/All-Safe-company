@@ -1,6 +1,4 @@
-# All-Safe-company
-# DeathNote ctf
-![space box](https://raw.githubusercontent.com/hamza07-w/DeathNote/main/screen1.jpg)  
+# All-Safe-company 
 
 ## Description
 ![web category](https://img.shields.io/badge/category-WEB-blueviolet.svg)   
