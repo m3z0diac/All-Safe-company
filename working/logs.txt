@@ -1,0 +1,2 @@
+192.168.1.34 - - [Jul/2021:21:23:57 +0200] "GET /empl.php/?username=darlin&&password=hackurlife HTTP/1.1" 404 299 "-" "Chrome/15.0 (compatible; MSIE 6.0; Linux Ubunto)"
+192.168.1.105 - - [Jul/2021:21:05:57 +0200] "GET /empl.php/?username=elliot&&password=qwerty HTTP/1.1" 404 299 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Kali Linux)"

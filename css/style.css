@@ -1,0 +1,95 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+/*
+	Hi elliot, I knew you will come here for safe our life from those attackers again
+	we discovered that an attackers group controlled our servers and this website one from them as well.
+	you have to return back our controll on this server
+	Lloyd said that he discovered they are uploaded a shell and that the way how they get access into us
+	and don't forget catch the hackers names to give them to the FBI
+*/
+.menu {
+	margin: 0;
+	padding-left: 2%;
+	padding-right: 2%;
+	background-color: #eee;
+}
+
+.menu ul {
+	margin: 0;
+	padding: 50px;
+}
+
+.menu ul li {
+	list-style: none;
+	margin-left: 40px;
+	font-size: 20px;
+	float: left;
+}
+
+.menu ul li a {
+	color: black;
+	text-decoration-line: none;
+
+}
+
+.menu ul li a:hover {
+	color: black;
+	text-decoration-line: underline;
+}
+
+#contact {
+	float: right;
+}
+
+.AllSafe {
+	margin-top: 5px;
+	padding: 5%;
+	overflow: hidden;
+	color: black;
+}
+
+h1 {
+	color: white;
+}
+
+p {
+	overflow: hidden;
+	font-size: 20px;
+	color: white;
+}
+
+img {
+	display: inline;
+	width: 500px;
+	height: auto;
+}
+
+form {
+	padding: 20px;
+	text-align: center;
+}
+
+input[type="text"], input[type="password"] {
+	padding: 5px;
+	font-size: 15px;
+	border-radius: 5px;
+}
+
+input[type="submit"] {
+	font-size: 15px;
+	padding: 3px;
+	background-color: black;
+	color: white;
+	border: solid 2px white;
+	border-radius: 5px;
+}
+
+#n {
+	width: 500px;
+	height: 200px;
+	padding: 5px;
+	font-size: 20px;
+}
